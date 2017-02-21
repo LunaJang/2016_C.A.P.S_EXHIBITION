@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\user\desktop\장성은\프로그래밍\전시회\자료구조\consoleapplication1\sorting\visualization\소스.c(88): error C2055: 형식 목록이 아니라 정식 매개 변수 목록이 있어야 합니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\자료구조\consoleapplication1\sorting\visualization\소스.c(100): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.

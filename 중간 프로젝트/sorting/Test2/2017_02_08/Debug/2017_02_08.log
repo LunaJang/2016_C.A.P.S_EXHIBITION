@@ -1,0 +1,24 @@
+﻿  소스.c
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(83): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(157): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: 'kbhit' 선언을 참조하십시오.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(158): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(217): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(384): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(400): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(404): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 'getch' 선언을 참조하십시오.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(447): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(529): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(529): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(550): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(547): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(558): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(575): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(597): warning C4090: '함수': 'const' 한정자가 서로 다릅니다.
+c:\users\user\desktop\장성은\프로그래밍\전시회\sorting\test2\2017_02_08\소스.c(594): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  2017_02_08.vcxproj -> C:\Users\user\Desktop\장성은\프로그래밍\전시회\sorting\Test2\Debug\2017_02_08.exe
